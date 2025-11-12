@@ -30,7 +30,7 @@ Source files are under `src/main/java/org/splms`.
 
 ## Class Diagram
 
-![Library Management System Class Diagram](diagrams/class-daigram.png)
+![Library Management System Class Diagram](diagrams/class-diagram.png)
 
 ## Quick start (Windows PowerShell)
 
