@@ -28,6 +28,10 @@ Important packages and responsibilities:
 
 Source files are under `src/main/java/org/splms`.
 
+## Class Diagram
+
+![Library Management System Class Diagram](diagrams/class-daigram.png)
+
 ## Quick start (Windows PowerShell)
 
 Prerequisites:
